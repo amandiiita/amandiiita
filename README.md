@@ -8,7 +8,7 @@
 ¡Bienvenid@ a mi espacio! ✧ 
 
 
-### 🪞 En mi Mac vas a encontrar:
+### 🪞:
 <p align="left">
   <!-- Tarjetitas súper soft -->
   <img src="https://img.shields.io/badge/macOS-F5E6E8?style=for-the-badge&logo=apple&logoColor=black" />
